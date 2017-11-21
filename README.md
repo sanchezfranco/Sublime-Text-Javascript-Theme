@@ -1,6 +1,8 @@
 # Sublime-Text-Javascript-Theme
 Github Paleday Javascript Syntax Color Scheme for Sublime Text
 
+![Sublime-Text-Javascript-Sublime-Theme](https://github.com/sanchezfranco/Sublime-Text-Javascript-Theme/blob/master/preview.png?raw=true)
+
 ## Installation
 
 ### Download Manually
