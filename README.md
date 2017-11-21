@@ -13,4 +13,4 @@ Github Paleday Javascript Syntax Color Scheme for Sublime Text
 
 ## Activating the color theme
 
-`Preferences -> Color Scheme -> Paleday Github`.
+`Preferences -> Color Scheme -> Paleday_Github`.
